@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 import com.dxctraining.complaint.entities.Complaint;
-import com.dxctraining.consumer.service.IComplaintService;
+import com.dxctraining.complaint.service.IComplaintService;
 import com.dxctraining.dto.ComplaintReq;
 import com.dxctraining.dto.ConsumerReq;
 import com.dxctraining.util.ComplaintUtil;

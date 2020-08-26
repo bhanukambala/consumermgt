@@ -1,4 +1,4 @@
-package com.dxctraining.consumer.service;
+package com.dxctraining.complaint.service;
 
 import java.util.List;
 
